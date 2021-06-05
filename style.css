@@ -1,0 +1,33 @@
+html {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.navigation {
+    display: flex;
+}
+
+h3 {
+   text-decoration: underline;
+}
+
+.logo {
+    flex-grow: 1;
+}
+
+.menu {
+
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    display: inline;
+    padding-right: 75px;
+
+}
+
+.intro {
+    display: flex;
+}
