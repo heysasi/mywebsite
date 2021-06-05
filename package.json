@@ -1,0 +1,25 @@
+{
+  "name": "portfolio-website-sasi",
+  "version": "1.0.0",
+  "description": "Personal portfolio website for Novi Retnosasi",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -c-1 -p 8081",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heysasi/mywebsite.git"
+  },
+  "author": "MBW IT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heysasi/mywebsite/issues"
+  },
+  "homepage": "https://github.com/heysasi/mywebsite#readme",
+  "dependencies": {
+    "@firebase/analytics": "^0.6.11",
+    "firebase": "^8.6.5",
+    "http-server": "^0.12.3"
+  }
+}
