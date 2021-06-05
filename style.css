@@ -8,20 +8,30 @@ html {
     align-items: center;
 }
 
-h3 {
-   text-decoration: underline;
+.navigation li {
+    display: inline;
+    padding-right: 75px;
 }
 
-ul {
+.navigation ul {
     list-style-type: none;
 }
 
-li {
-    display: inline;
-    padding-right: 75px;
-
+.logo h3 {
+    text-decoration: underline;
 }
+
+
+
+
 
 .intro {
     display: flex;
 }
+
+/*  This is also a comment 
+  To do: 
+    - uplaod the navigation 
+
+
+*/ 
