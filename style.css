@@ -4,18 +4,12 @@ html {
 
 .navigation {
     display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
 
 h3 {
    text-decoration: underline;
-}
-
-.logo {
-    flex-grow: 1;
-}
-
-.menu {
-
 }
 
 ul {
