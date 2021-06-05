@@ -1,5 +1,3 @@
-# mywebsite
-Home
-## Projects
-## Skill & Tool
-## Contact
+# Personal Portfolio website
+
+This repository contains Sasi's personal portfolio website.
